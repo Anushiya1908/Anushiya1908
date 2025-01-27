@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence and data science
 - 🌱 I’m currently learning python program
 - 💞️ I’m looking to collaborate on interested insights
-- 📫 How to reach me
+
 
 <!---
 Anushiya/Anushiya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
